@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Photomoa-LoginPage/static/css/main.deae97ce.css",
+    "main.js": "/Photomoa-LoginPage/static/js/main.2d836a10.js",
+    "static/js/453.9c5d69c4.chunk.js": "/Photomoa-LoginPage/static/js/453.9c5d69c4.chunk.js",
+    "index.html": "/Photomoa-LoginPage/index.html",
+    "main.deae97ce.css.map": "/Photomoa-LoginPage/static/css/main.deae97ce.css.map",
+    "main.2d836a10.js.map": "/Photomoa-LoginPage/static/js/main.2d836a10.js.map",
+    "453.9c5d69c4.chunk.js.map": "/Photomoa-LoginPage/static/js/453.9c5d69c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deae97ce.css",
+    "static/js/main.2d836a10.js"
+  ]
+}
