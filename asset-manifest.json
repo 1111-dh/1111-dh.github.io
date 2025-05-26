@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Photomoa-LoginPage/static/css/main.deae97ce.css",
-    "main.js": "/Photomoa-LoginPage/static/js/main.2d836a10.js",
-    "static/js/453.9c5d69c4.chunk.js": "/Photomoa-LoginPage/static/js/453.9c5d69c4.chunk.js",
-    "index.html": "/Photomoa-LoginPage/index.html",
-    "main.deae97ce.css.map": "/Photomoa-LoginPage/static/css/main.deae97ce.css.map",
-    "main.2d836a10.js.map": "/Photomoa-LoginPage/static/js/main.2d836a10.js.map",
-    "453.9c5d69c4.chunk.js.map": "/Photomoa-LoginPage/static/js/453.9c5d69c4.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.deae97ce.css",
-    "static/js/main.2d836a10.js"
-  ]
+    "main.css": "/static/css/main.15ab7682.chunk.css",
+    "main.js": "/static/js/main.08b361b3.chunk.js",
+    "main.js.map": "/static/js/main.08b361b3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b45b9353.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b45b9353.js.map",
+    "static/js/2.c7821bdd.chunk.js": "/static/js/2.c7821bdd.chunk.js",
+    "static/js/2.c7821bdd.chunk.js.map": "/static/js/2.c7821bdd.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dddcc3c836746393b44fb6bb49622947.js": "/precache-manifest.dddcc3c836746393b44fb6bb49622947.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.15ab7682.chunk.css.map": "/static/css/main.15ab7682.chunk.css.map"
+  }
 }
